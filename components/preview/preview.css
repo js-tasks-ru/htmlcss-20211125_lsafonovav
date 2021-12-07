@@ -1,0 +1,12 @@
+.preview {
+    flex-grow: 1;
+    background: #F9FAFC;
+    padding: 68px 165px 0;
+}
+
+.preview__grid {
+    display: flex;
+    gap: 30px;
+    /*flex-direction: row;*/
+    flex-wrap: wrap;
+}
